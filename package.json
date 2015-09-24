@@ -1,0 +1,17 @@
+{
+  "name": "ember-admin-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+  		"express": "~4.0.0",
+      "mysql": "~2.9.0",
+      "body-parser": "~1.4.0",
+      "cookie-parser": "~1.4.0"
+},
+  "author": "",
+  "license": "ISC"
+}
